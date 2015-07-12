@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="meindesign" parent="android:Theme.Material.Light">
+
+    <item name="android:colorPrimary">@color/primary</item>
+    <item name="android:colorPrimaryDark">@color/primarydark</item>
+    <item name="android:colorAccent">@color/accent</item>
+
+    <item name="android:statusBarColor">@color/status</item>
+    <item name="android:navigationBarColor">@color/naqvigation</item>
+    <item name="android:actionBarStyle">@style/actionbarstyle</item>
+
+
+
+
+    </style>
+
+    <style name="actionbarstyle" parent="android:Widget.Material.Light.ActionBar">
+
+        <item name="android:background">@color/action</item>
+
+
+
+    </style>
+
+
+
+
+
+
+
+</resources>

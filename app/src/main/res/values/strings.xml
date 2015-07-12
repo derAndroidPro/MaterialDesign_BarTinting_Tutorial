@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bar Tinting Tutorial2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <color name="primary">#ff1eb9ff</color>
+    <color name="primarydark">#ff1e91cb</color>
+    <color name="accent">#ff281fff</color>
+    <color name="status">#ff50c348</color>
+    <color name="action">#fffdff1d</color>
+    <color name="taskcolor">#ffff4f00</color>
+    <color name="naqvigation">#ffc1ff28</color>
+
+
+</resources>
